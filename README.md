@@ -13,7 +13,7 @@ Este repositorio contiene mis soluciones detalladas para diversas máquinas de l
 
 ## 🗂️ Estructura
 
-Las máquinas están organizadas por dificultad y sistema operativo:
+Las máquinas están organizadas por dificultad y sistema operativo.
 
 ```
 /
