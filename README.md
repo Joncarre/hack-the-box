@@ -13,7 +13,7 @@ Este repositorio contiene mis soluciones detalladas para diversas máquinas de l
 
 ## 🗂️ Estructura
 
-Las máquinas están organizadas por dificultad y sistema operativo.
+Las máquinas están organizadas por dificultad y sistema operativo:
 
 ```
 /
@@ -45,7 +45,7 @@ Sigo una metodología estructurada para resolver cada máquina:
 4. **Post-Explotación** - Escalada de privilegios y persistencia
 5. **Documentación** - Informe detallado del proceso
 
-## 🛠️ Herramientas Principales que utilizo
+## 🛠️ Herramientas principales que utilizo
 
 - Nmap, Gobuster, ffuf
 - Metasploit Framework
@@ -69,7 +69,7 @@ Sigo una metodología estructurada para resolver cada máquina:
 - **Hack The Box**: Falta por actualizar.
 - **Web**: Falta por actualizar.
 
-## ⚠️ Aviso Legal
+## ⚠️ Aviso legal
 
 Todo el contenido de este repositorio tiene fines exclusivamente educativos y de investigación. Las técnicas documentadas solo deben utilizarse en entornos controlados o con autorización explícita. No me hago responsable del mal uso de esta información.
 
