@@ -12,3 +12,63 @@ Mi objetivo es documentar mi progresión en el mundo de la seguridad informátic
 ## 🗂️ Estructura
 
 Las máquinas están organizadas por dificultad y sistema operativo:
+
+/
+├── Linux/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+├── Windows/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+└── Resources/
+    └── Templates/
+
+Cada carpeta de máquina contiene:
+- Informe completo en PDF (generado desde LaTeX)
+- Código fuente LaTeX
+- Scripts personalizados utilizados (si aplica)
+- Capturas de pantalla relevantes
+
+## 🔍 Metodología
+
+Sigo una metodología estructurada para resolver cada máquina:
+
+1. **Reconocimiento** - Escaneo de puertos, servicios y versiones
+2. **Enumeración** - Identificación de posibles vectores de ataque
+3. **Explotación** - Aprovechamiento de vulnerabilidades
+4. **Post-Explotación** - Escalada de privilegios y persistencia
+5. **Documentación** - Informe detallado del proceso
+
+## 🛠️ Herramientas Principales
+
+- Nmap, Gobuster, ffuf
+- Metasploit Framework
+- Burp Suite
+- LinPEAS/WinPEAS
+- Herramientas personalizadas en Python/Bash
+
+## ⚠️ Aviso Legal
+
+Todo el contenido de este repositorio tiene fines exclusivamente educativos y de investigación. Las técnicas documentadas solo deben utilizarse en entornos controlados o con autorización explícita. No me hago responsable del mal uso de esta información.
+
+## 📈 Progreso
+
+| Categoría | Completadas |
+|-----------|-------------|
+| Easy      | 0           |
+| Medium    | 0           |
+| Hard      | 0           |
+| Insane    | 0           |
+| Total     | 0           |
+
+## 📬 Contacto
+
+- **GitHub**: [Jonathan](https://github.com/joncarre)
+- **Hack The Box**: Falta por actualizar.
+- **Web**: Falta por actualizar.
+
+---
+
+💡 **Nota**: Los writeups se publican solo después de que las máquinas son retiradas, respetando las políticas de Hack The Box.
