@@ -1,7 +1,8 @@
-<h1 align="center">
-  <img src="https://via.placeholder.com/15/bbff34/000000?text=+" alt="color swatch">
-  HTB Writeups - Jonathan Carrero
-</h1>
+<p align="center">
+  <img src="https://i.ibb.co/tM9v7nR5/image-5.png" alt="Hack The Box">
+</p>
+
+--- 
 
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
