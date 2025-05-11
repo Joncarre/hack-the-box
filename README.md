@@ -15,6 +15,7 @@ Este repositorio contiene mis soluciones detalladas para diversas máquinas de l
 
 Las máquinas están organizadas por dificultad y sistema operativo:
 
+```
 /
 ├── Linux/
 │   ├── Easy/
@@ -26,6 +27,7 @@ Las máquinas están organizadas por dificultad y sistema operativo:
 │   └── Hard/
 └── Resources/
     └── Templates/
+```
 
 Cada carpeta de máquina contiene:
 - Informe completo en PDF.
