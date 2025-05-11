@@ -1,4 +1,4 @@
-# HTB Writeups - Jonathan Carrero 
+# <span style="color: #bbff34;">Hack The Box</span>
 
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
