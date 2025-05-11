@@ -65,7 +65,7 @@ Todo el contenido de este repositorio tiene fines exclusivamente educativos y de
 
 ## 📬 Contacto
 
-- **GitHub**: [Jonathan](https://github.com/joncarre)
+- **GitHub**: [Jonathan Carrero](https://github.com/joncarre)
 - **Hack The Box**: Falta por actualizar.
 - **Web**: Falta por actualizar.
 
