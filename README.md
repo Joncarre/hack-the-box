@@ -5,9 +5,7 @@
 
 ## 📋 Descripción
 
-Este repositorio contiene mis soluciones detalladas para diversas máquinas de la plataforma Hack The Box. Cada writeup está documentado meticulosamente en LaTeX, ofreciendo una visión completa del proceso de pentesting, desde la enumeración inicial hasta la obtención de acceso root.
-
-Mi objetivo es documentar mi progresión en el mundo de la seguridad informática y proporcionar recursos educativos para la comunidad.
+Este repositorio contiene mis soluciones detalladas para diversas máquinas de la plataforma Hack The Box. Cada writeup está documentado en LaTeX, ofreciendo una visión completa del proceso de pentesting. Mi objetivo principal es ir documentando mi progresión en el mundo de la seguridad informática y proporcionar recursos educativos para la comunidad.
 
 ## 🗂️ Estructura
 
@@ -26,10 +24,10 @@ Las máquinas están organizadas por dificultad y sistema operativo:
     └── Templates/
 
 Cada carpeta de máquina contiene:
-- Informe completo en PDF (generado desde LaTeX)
-- Código fuente LaTeX
-- Scripts personalizados utilizados (si aplica)
-- Capturas de pantalla relevantes
+- Informe completo en PDF.
+- Código fuente LaTeX.
+- Scripts personalizados utilizados (si se ha hecho uso de ellos).
+- Capturas de pantalla relevantes de las máquinas resueltas.
 
 ## 🔍 Metodología
 
@@ -41,17 +39,13 @@ Sigo una metodología estructurada para resolver cada máquina:
 4. **Post-Explotación** - Escalada de privilegios y persistencia
 5. **Documentación** - Informe detallado del proceso
 
-## 🛠️ Herramientas Principales
+## 🛠️ Herramientas Principales que utilizo
 
 - Nmap, Gobuster, ffuf
 - Metasploit Framework
 - Burp Suite
 - LinPEAS/WinPEAS
 - Herramientas personalizadas en Python/Bash
-
-## ⚠️ Aviso Legal
-
-Todo el contenido de este repositorio tiene fines exclusivamente educativos y de investigación. Las técnicas documentadas solo deben utilizarse en entornos controlados o con autorización explícita. No me hago responsable del mal uso de esta información.
 
 ## 📈 Progreso
 
@@ -68,6 +62,10 @@ Todo el contenido de este repositorio tiene fines exclusivamente educativos y de
 - **GitHub**: [Jonathan Carrero](https://github.com/joncarre)
 - **Hack The Box**: Falta por actualizar.
 - **Web**: Falta por actualizar.
+
+## ⚠️ Aviso Legal
+
+Todo el contenido de este repositorio tiene fines exclusivamente educativos y de investigación. Las técnicas documentadas solo deben utilizarse en entornos controlados o con autorización explícita. No me hago responsable del mal uso de esta información.
 
 ---
 
