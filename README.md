@@ -31,7 +31,7 @@ Las máquinas están organizadas por dificultad y sistema operativo:
 
 Cada carpeta de máquina contiene:
 - Informe completo en PDF.
-- Código fuente LaTeX.
+- Código fuente LaTeX (plantilla creada por @rasp0wn).
 - Scripts personalizados utilizados (si se ha hecho uso de ellos).
 - Capturas de pantalla relevantes de las máquinas resueltas.
 
