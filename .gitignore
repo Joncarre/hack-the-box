@@ -1,0 +1,23 @@
+# Ignora todos los archivos en Resources excepto Template.tex
+Resources/*
+!Resources/Template.tex
+
+# Archivos generados por LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.dvi
+*.xdv
+*.pdf
+
+# Ignora imágenes y scripts, pero permite la estructura si quieres añadir .gitkeep
+Resources/Images/*
+!Resources/Images/.gitkeep
+Resources/Scripts/*
+!Resources/Scripts/.gitkeep
