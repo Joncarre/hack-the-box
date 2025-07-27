@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://i.ibb.co/tM9v7nR5/image-5.png" alt="Hack The Box">
-</p>
 
---- 
 
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 📋 Descripción
 
@@ -76,3 +70,6 @@ Todo el contenido de este repositorio tiene fines exclusivamente educativos y de
 ---
 
 💡 **Nota**: Los writeups se publican solo después de que las máquinas son retiradas, respetando las políticas de Hack The Box.
+
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
