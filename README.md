@@ -3,7 +3,7 @@
 
 ## 📋 Descripción
 
-Este repositorio contiene mis soluciones detalladas para diversas máquinas de la plataforma Hack The Box. Cada writeup está documentado en LaTeX, ofreciendo una visión completa del proceso de pentesting. Mi objetivo principal es ir documentando mi progresión en el mundo de la seguridad informática y proporcionar recursos educativos para la comunidad.
+Este repositorio contiene mis soluciones para diversas máquinas de la plataforma Hack The Box. Cada writeup está documentado en LaTeX, ofreciendo una visión completa del proceso de pentesting. Mi objetivo principal es ir documentando mi progresión en el mundo de la seguridad informática y proporcionar recursos educativos para la comunidad.
 
 ## 🗂️ Estructura
 
