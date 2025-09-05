@@ -14,7 +14,7 @@ Resources/*
 *.synctex.gz
 *.dvi
 *.xdv
-*.pdf
+Resources/Template.pdf
 
 # Ignora imágenes y scripts, pero permite la estructura si quieres añadir .gitkeep
 Resources/Images/*
